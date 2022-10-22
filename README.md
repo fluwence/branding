@@ -3,4 +3,5 @@ Fluwence Assets, Media, Texts, etc.
 
 
 ```diff
-- THESE IMAGES, GIFs, VIDEOS and other files are for use by Fluwence only.```
+- THESE IMAGES, GIFs, VIDEOS and other files are for use by Fluwence only.
+```
